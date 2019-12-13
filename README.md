@@ -10,6 +10,13 @@
 pip install -r requirement  
 ```
 
+## Team Member
+* Arvis Su 
+* Benson
+* De-En Lin
+* KW Lee
+* Lish Chen
+
 
 ## competition link
 <a> https://tbrain.trendmicro.com.tw/Competitions/Details/10 </a>
