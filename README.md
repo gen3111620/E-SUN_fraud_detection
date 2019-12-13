@@ -11,11 +11,11 @@ pip install -r requirement
 ```
 
 ## Team Member
-* Arvis Su 
+* Arvis 
 * Benson
-* De-En Lin
-* KW Lee
-* Lish Chen
+* De-En
+* KW
+* Lish
 
 
 ## competition link
